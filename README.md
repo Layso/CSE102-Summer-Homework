@@ -4,3 +4,9 @@ This is summer homework of GIT'S CSE102 course given on 2016 summer. Purpose of 
 -
 File Content
 -
+main.c - Contains menu implementations
+game.c - Contains game screen implementations
+box.c - Contains implementations of functions for target boxes and game board informations
+ball.c - Contains implementations of functions for balls
+stats.c - Contains all functions about achievemnt system and statistics
+img Folder - Contains images used in-game
